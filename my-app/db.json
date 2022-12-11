@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "fullname": "trung",
+      "age": "2",
+      "address": "binh du",
+      "id": 2
+    },
+    {
+      "fullname": "nguyentantrung",
+      "age": "tantrungnguyen",
+      "address": "laithieuthuanan binh buong",
+      "id": 4
+    },
+    {
+      "fullname": "asdasdasd",
+      "age": "memaygat61roi61",
+      "address": "nhucca dau",
+      "id": 5
+    },
+    {
+      "fullname": "chong mat buon non ",
+      "age": "nhuc rang dau khacp minh may",
+      "address": "ot ",
+      "id": 6
+    },
+    {
+      "fullname": "ok anhem tksyouso much",
+      "age": "asd",
+      "address": "asdasd",
+      "id": 7
+    }
+  ]
+}
